@@ -1,2 +1,2 @@
-hello
-new
+
+this is new line
